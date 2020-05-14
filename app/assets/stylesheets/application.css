@@ -13,8 +13,6 @@
  *= require_tree .
  *= require_self
  */
- thead {
-    display: table-header-group;
-    vertical-align: middle;
-    border-color: inherit;
+.flash{
+	color:#66FF00
 }
